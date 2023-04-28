@@ -3,13 +3,13 @@ body {
     background-image:url(clocks.gif);
     background-position: center;
     background-size: cover;
-    overflow: hidden;
+    overflow: auto;
     font-family: sans-serif;
 }
 
 .container {
     max-width: 550px;
-    margin: 60px auto;
+    margin: 50px auto;
     background: white;
     opacity: 0.9;
     padding: 30px;
